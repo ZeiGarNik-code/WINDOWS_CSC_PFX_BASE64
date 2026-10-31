@@ -1,0 +1,8 @@
+node_modules/
+dist/
+public/ocr/
+public/ai/ort/
+test-results/
+coverage/
+.DS_Store
+*.log
